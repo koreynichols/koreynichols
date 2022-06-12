@@ -59,4 +59,14 @@ Here are some ideas to get you started:
 postman
 </details>
 
+<h2>Projects</h2>
+<h3><a href="https://github.com/koreynichols/video-poker">Video Poker</a></h3>
+<div style="display: flex;"> 
+<img src="https://user-images.githubusercontent.com/26910936/173251647-3c27441d-949b-46a5-bdcf-8241a6097adf.png" width="436px" />
+
+<img src="https://user-images.githubusercontent.com/26910936/173251649-dc476998-46ea-4b32-8511-be8229f6c536.png" width="450px" />
+</div>
+
+<br />
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koreynichols&show_icons=true&layout=compact&theme=vision-friendly-dark)
