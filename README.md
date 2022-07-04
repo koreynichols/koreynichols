@@ -70,16 +70,6 @@ postman
 
 <hr />
 
-<h3><a href="https://github.com/koreynichols/video-poker">Video Poker</a> - HTML CSS JS</h3>
-<h4><a href="https://koreynichols.github.io/video-poker/">Click here to play!</a><h4>
-<div style="display: flex;"> 
-<img src="https://user-images.githubusercontent.com/26910936/173251647-3c27441d-949b-46a5-bdcf-8241a6097adf.png" width="40%" />
-
-<img src="https://user-images.githubusercontent.com/26910936/173251649-dc476998-46ea-4b32-8511-be8229f6c536.png" width="40%" />
-</div>
-
-<hr />
-  
 <h3><a href="https://github.com/koreynichols/aka-budget">AKA Budget (Team Project)</a> - HTML CSS JS</h3>
 <h4><a href="https://koreynichols.github.io/aka-budget/">Try Me</a></h4>
 <div style="display: flex;">
@@ -95,6 +85,16 @@ postman
       <li>Using local storage to save information</li>
   </ul>
   
+<hr />
+
+<h3><a href="https://github.com/koreynichols/video-poker">Video Poker</a> - HTML CSS JS</h3>
+<h4><a href="https://koreynichols.github.io/video-poker/">Click here to play!</a><h4>
+<div style="display: flex;"> 
+<img src="https://user-images.githubusercontent.com/26910936/173251647-3c27441d-949b-46a5-bdcf-8241a6097adf.png" width="40%" />
+
+<img src="https://user-images.githubusercontent.com/26910936/173251649-dc476998-46ea-4b32-8511-be8229f6c536.png" width="40%" />
+</div>
+
 <hr />
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koreynichols&show_icons=true&layout=compact&theme=vision-friendly-dark)
