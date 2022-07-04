@@ -87,6 +87,13 @@ postman
 <img src="https://user-images.githubusercontent.com/26910936/173257038-c5b7f885-4284-44ef-9be0-b1138af03f5e.png" width="40%"/>
 <img src="https://user-images.githubusercontent.com/26910936/173257051-3bfbc76f-4f22-4e83-a520-c4960de18702.png" width="40%"/>
 </div>
+  <h4>My Work on Project</h4>
+    <ul>
+      <li>Pie chart using google charts</li>
+      <li>Legend for chart</li>
+      <li>Updating chart and legend when new expense is added</li>
+      <li>Using local storage to save information</li>
+  </ul>
   
 <hr />
   
