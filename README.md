@@ -60,6 +60,16 @@ postman
 </details>
 
 <h2>Projects</h2>
+<h3>GeekBooks (In progress) - <a href="https://github.com/koreynichols/geekbooks-frontend">Frontend React</a> - Backend Django</h3>
+<div style="display: flex;"> 
+<img src="https://user-images.githubusercontent.com/26910936/177221208-0404de57-e960-42b8-af65-8464daa6b140.png" width="40%" />
+<img src="https://user-images.githubusercontent.com/26910936/177221250-513ce116-9281-4962-8271-feff7beb08c8.png" width="40%" />
+<img src="https://user-images.githubusercontent.com/26910936/177221272-001c2621-b533-4891-8f37-aeaf748b3bef.png" width="40%" />
+<img src="https://user-images.githubusercontent.com/26910936/177221293-1adedb3e-1ec3-4b87-a6d5-d8e448e322b4.png" width="40%" />
+</div>
+
+<hr />
+
 <h3><a href="https://github.com/koreynichols/video-poker">Video Poker</a> - HTML CSS JS</h3>
 <h4><a href="https://koreynichols.github.io/video-poker/">Click here to play!</a><h4>
 <div style="display: flex;"> 
