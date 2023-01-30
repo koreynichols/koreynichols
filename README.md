@@ -60,7 +60,7 @@ postman
 </details>
 
 <h2>Projects</h2>
-<h3>GeekBooks (In progress) - <a href="https://github.com/koreynichols/geekbooks-frontend">Frontend React</a> - <a href="https://github.com/koreynichols/geekbooks-backend">Backend Django</a></h3>
+<h3>GeekBooks <a href="https://geekbooks-wdjp.onrender.com/">Try Me</a> - <a href="https://github.com/koreynichols/geekbooks-frontend">Frontend React</a> - <a href="https://github.com/koreynichols/geekbooks-backend">Backend Django</a></h3>
 <div style="display: flex;"> 
 <img src="https://user-images.githubusercontent.com/26910936/177221208-0404de57-e960-42b8-af65-8464daa6b140.png" width="40%" />
 <img src="https://user-images.githubusercontent.com/26910936/177221250-513ce116-9281-4962-8271-feff7beb08c8.png" width="40%" />
